@@ -1,5 +1,5 @@
 # linguatool
-A small script for language-detection encapsulating Lingua::identify
+A Perl script for language detection encapsulatiing Lingua::Identify
 
 ## Dependencies
 - Lingua::identify : https://metacpan.org/pod/Lingua::Identify
