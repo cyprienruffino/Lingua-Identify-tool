@@ -2,6 +2,7 @@
 A Perl script for language identification encapsulatiing Lingua::Identify
 
 ## Usage
+```
 usage: Linguatool [--help|-h] [--sort|-s] [--stats|-p] [--results|-r]
 
 [--verbose|-v] [--dir|-d] [--file|-f] [--output|-o]
@@ -25,7 +26,7 @@ optional named arguments:
   --file, -f FILE          ? Use a single file as input
   
   --output, -o OUTPUT      ? Where to output sorted files
-
+```
 
 ## Dependencies
 - Lingua::identify : https://metacpan.org/pod/Lingua::Identify
