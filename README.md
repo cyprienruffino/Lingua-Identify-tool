@@ -3,28 +3,18 @@ A Perl script for language identification encapsulatiing Lingua::Identify
 
 ## Usage
 ```
-usage: Linguatool [--help|-h] [--sort|-s] [--stats|-p] [--results|-r]
-
-[--verbose|-v] [--dir|-d] [--file|-f] [--output|-o]
+usage: Linguatool [--help|-h] [--sort|-s] [--stats|-p] [--results|-r][--verbose|-v] [--dir|-d] [--file|-f] [--output|-o]
 
 A small language-recognition script encapsulatiing Lingua
 
 optional named arguments:
-
   --help, -h               ? show this help message and exit
-  
   --sort, -s               ? Sort the files
-  
   --stats, -p              ? Get language statistics
-  
   --results, -r RESULTS    ? Write the results in a file
-  
   --verbose, -v            ? Print all the results
-  
   --dir, -d DIR            ? Use a directory as input
-  
   --file, -f FILE          ? Use a single file as input
-  
   --output, -o OUTPUT      ? Where to output sorted files
 ```
 
